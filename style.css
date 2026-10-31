@@ -1,0 +1,442 @@
+.hero-contant{
+ float: left; 
+width: 50%;
+padding-left: 5%;
+text-align: left;
+color: black;
+font-size: 35px;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 50px;
+
+}
+
+
+
+.hero-contant p{
+color: grey;
+font-size: 18px;
+line-height: 1.5;
+}
+
+
+
+.hero-image{
+   float: right;
+    width: 30%;
+    margin-right: 10%;
+    margin-top: 10%;
+   
+}
+
+.hero-image img{
+width: 100%;
+border-radius: 5%;
+}
+
+.hero-buttons{
+    margin-top: 30px;
+}
+
+
+ .button-primary {
+    background-color: black;
+    color: white;
+    padding: 20px;
+     border-radius: 10px; 
+   font-size: medium;
+   border: black;
+
+}
+
+.button-secondary{
+ background-color: white;   
+ color: grey;
+  padding: 20px;
+   border-radius: 10px;
+   font-size: medium;
+}
+
+
+
+
+.features {
+text-align: center;
+font-size: x-large;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+margin-top: 100px;
+}
+
+.features p{
+    color: grey;
+    font-size: large;
+    margin-bottom: 80px;
+}
+
+.card-icon{
+    width: 60px;
+    height: 60px;
+    border-radius: 15px;
+    margin: 0 auto 20px;
+}
+
+.icon-blue{
+    background-color: royalblue;
+}
+
+.icon-green{
+    background-color: seagreen;
+}
+.icon-purple{
+    background-color: rebeccapurple;
+}
+
+.card-1{
+float: left;
+width: 25%;
+border-radius: 15px;
+text-align: center;
+background-color: oklch(88.2% .059 254.128);
+padding: 20px  20px 5px;
+margin: 0 2.5%;
+font-size: large;
+}
+
+.card-1 p{
+font-size: small;
+color: black;
+}
+
+
+.card-2{
+float: left;
+width: 25%;
+border-radius: 15px;
+text-align: center;
+background-color: oklch(95% .052 163.051);
+padding: 20px 20px 5px;
+margin: 0 2.5%;
+font-size: large;
+}
+.card-2 p{
+font-size: small;
+color: black;
+}
+
+
+
+.card-3{
+float: left;
+width: 25%;
+border-radius: 15px;
+text-align: center;
+background-color: oklch(94.6% .033 307.174);
+padding: 25px 20px 5px;
+margin: 0 2.5%;
+font-size: large;
+}
+
+.card-3 p{
+font-size: small;
+color: black;
+
+}
+
+
+
+.hero{
+    overflow: hidden;
+}
+
+
+
+.features-cards{
+ overflow: hidden;
+}
+
+
+
+.about-image{
+    float: left;
+    width: 45%;
+    margin-left: 4%;
+}
+
+.about-image img {
+width: 100%;
+border-radius: 15px;
+}
+
+.about-content{
+    float: right;
+    width: 45%;
+   margin-right: 4%;
+   font-size: larger;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.about{
+    overflow: hidden;
+    padding: 60px 0;
+}
+
+
+.about-item1{
+border-left: 4px solid black;
+padding-left: 20px;
+margin-bottom: 20px;
+font-size: medium;
+
+}
+.about-item1 p {
+    color: grey;
+}
+
+.about-item2{
+border-left: 4px solid black;
+padding-left: 20px;
+margin-bottom: 20px;
+font-size: medium;
+}
+
+.about-item2 p {
+    color: grey;
+}
+
+.about-item3{
+border-left: 4px solid black;
+padding-left: 20px;
+margin-bottom: 20px;
+font-size: medium;
+}
+ 
+.about-item3 p {
+    color: grey;
+}
+
+.members{
+    text-align: center;
+    padding: 60px 5%;
+    overflow: hidden;
+    font-size: x-large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(255, 251, 246);
+    
+}
+
+.members p{
+    color: grey;
+    font-size: smaller;
+}
+
+.member-card{
+    float: left;
+    width: 25%;
+    margin: 0 2.5%;
+    padding: 20px;
+    border-radius: 10px; 
+    text-align: left;
+    background-color:rgba(219, 255, 219, 0.842);
+    
+}
+
+.member-info{
+    overflow: hidden;
+    margin-bottom: 15px;
+   
+}
+
+.member-info img{
+    float: left;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+  
+
+.member-name-1{
+margin: 5px 0 0;
+}
+
+
+.member-name-2{
+margin: 5px 0 0;
+
+}
+
+
+
+.member-name-3{
+margin: 5px 0 0;
+
+}
+
+.member-name-1 span{
+    color: grey;
+    font-size: small;
+}
+
+
+.member-name-2 span{
+    color: grey;
+    font-size: small;
+}
+
+.member-name-3 span{
+    color: grey;
+    font-size: small;
+    
+}
+
+
+
+.stats{
+    clear: both;
+    overflow: hidden;
+    margin-top: 60px;
+    padding: 40px 0;
+    background-color: rgb(221, 220, 240);
+    border-radius: 15px;
+}
+
+.stat{
+    float: left;
+    width: 25%;
+}
+
+.stat h3 {
+font-size: 30px;
+color: black;
+margin: 0;
+}
+
+.stat p {
+margin: 5px 0 0;
+}
+
+.join {
+  text-align: center;
+  padding: 60px 5%;
+  overflow: hidden;
+  font-size: large;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.join p {
+  color: grey;
+}
+
+.join-form {
+  width: 60%;
+  margin: 40px auto 0;
+  text-align: left;
+}
+
+.field {
+  margin-bottom: 20px;
+}
+
+
+.field label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+
+.field input,
+.field select,
+.field textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid lightgrey;
+  border-radius: 8px;
+  font-size: larger;
+  box-sizing: border-box;
+}
+
+.field textarea {
+  height: 100px;
+}
+
+.name-row {
+  overflow: hidden;
+}
+
+.name-row .field {
+  float: left;
+  width: 48%;
+}
+
+.name-row .field:last-child {
+  float: right;
+}
+
+
+
+.join-btn {
+  width: 100%;
+  padding: 15px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: large;
+  cursor: pointer;
+}
+
+.terms {
+  text-align: center;
+  font-size: small;
+  margin-top: 15px;
+}
+
+
+
+
+.footer-top {
+  width: 80%;
+  margin: 0 auto;  
+  overflow: hidden;
+}
+
+.footer-about {
+  float: left;
+  width: 45%;
+}
+
+.footer-links {
+  float: left;
+  width: 25%;
+}
+
+.footer-contact {
+  float: left;
+  width: 25%;
+}
+
+
+.footer {
+background-color: #0f172a;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 60px 5% 20px;
+  overflow: hidden;
+
+
+
+
+}
+
+
+.footer-bottom {
+  width: 80%;
+  margin: 40px auto 0;
+  clear: both;
+  overflow: hidden;
+  border-top: 1px solid grey;
+  padding-top: 20px;
+}
+
